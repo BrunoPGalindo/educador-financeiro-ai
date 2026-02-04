@@ -1,0 +1,23 @@
+{
+  "nome": "Bruno",
+  "idade": 25,
+  "profissao": "Estudante",
+  "renda_mensal": 500.00,
+  "perfil_investidor": "Seguro",
+  "objetivo_principal": "Construir patrimônio",
+  "patrimonio_total": 0,
+  "reserva_emergencia_atual": 1000.00,
+  "aceita_risco": false,
+  "metas": [
+    {
+      "meta": "Construir patrimônio",
+      "valor_necessario": 150000.00,
+      "prazo": "2030-06"
+    },
+    {
+      "meta": "Entrada do apartamento",
+      "valor_necessario": 50000.00,
+      "prazo": "2032-12"
+    }
+  ]
+}
